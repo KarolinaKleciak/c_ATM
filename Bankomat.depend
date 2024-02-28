@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670883269 source:c:\podstawy programowania\bankomat\main.c
+	<stdio.h>
+	<stdlib.h>
+
